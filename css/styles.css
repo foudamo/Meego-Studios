@@ -39,6 +39,8 @@ img.grayscale {
 }
 
 .scroll-top {
+  position:fixed;
+  right:0%;
   background-color:#33ee67;
 }
 
@@ -51,7 +53,7 @@ img.grayscale {
 }
 
 .header .btn-lg:hover {
-   background-color:#84c7ff;
+   background-color:#428bca;
    color:#ffffff;
 }
 /*
@@ -83,7 +85,7 @@ img.grayscale {
   font-weight: 600;
   /*-webkit-text-stroke: 1px rgba(0,0,0,0.1);*/
   /*color:#507b98;*/
-  color:#84c7ff;
+  color:#428bca;
   margin-left:-5px;
   margin-bottom:5px;
   font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
