@@ -81,8 +81,8 @@ img.grayscale {
 .header h1 {
   font-size:110px;
   -webkit-text-stroke: 1px rgba(0,0,0,0.1);
-  color:#431a6d;
-  color:#fff;
+  /*color:#431a6d;*/
+  color:#84c7ff;
   margin-left:-5px;
   margin-bottom:5px;
   font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
