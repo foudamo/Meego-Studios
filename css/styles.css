@@ -80,8 +80,7 @@ img.grayscale {
 
 .header h1 {
   font-size:110px;
-  font-weight: 300;
-  font-style: bold;
+  font-weight: 600;
   /*-webkit-text-stroke: 1px rgba(0,0,0,0.1);*/
   /*color:#431a6d;*/
   color:#84c7ff;
