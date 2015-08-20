@@ -95,13 +95,23 @@ img.grayscale {
 
 .header {
   /* background: #11cc45 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed; */
-  background: #d0f4f7 url('../img/Cover.png') no-repeat top center scroll;
+  /* background: #d0f4f7 url('../img/Cover.png') no-repeat top center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  -o-background-size: cover;
+  -o-background-size: cover; */
   /*background-size: 100% auto;*/
-  background-size: 100%;
-  height: 80%;
+  /*height: 80%;*/
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #d0f4f7;
+    background-image: url(../img/Cover.png);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    background-size: cover;
 }
 
 /*
