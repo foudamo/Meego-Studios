@@ -94,9 +94,9 @@ img.grayscale {
 }
 
 .header {
-  height: 100%;
+  height: 80%;
   /* background: #11cc45 url('http://www.bootply.com/assets/example/pt_squares_lg.png') repeat center center fixed; */
-  background: #11cc45 url('../img/Cover.png') repeat center center fixed;
+  background: #d0f4f7 url('../img/Cover.png') repeat center center fixed;
 }
 
 .blurb {
