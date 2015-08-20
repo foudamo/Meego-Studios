@@ -54,7 +54,7 @@ img.grayscale {
    background-color:#eeeeee;
    color:#777777;
 }
-
+/*
 .navbar a {
   color:#fff;
 }
@@ -71,7 +71,7 @@ img.grayscale {
 .navbar-bold li a:hover, .navbar-bold li.active {
   background-color:#22dd56;
 }
-
+*/
 .vert {
   vertical-align: middle;
   width:100%;
@@ -99,6 +99,7 @@ img.grayscale {
   background: #d0f4f7 url('../img/Cover.png') center ;
 }
 
+/*
 .blurb {
   padding: 120px 0;
   background-color:#fefefe;
@@ -163,6 +164,7 @@ img.grayscale {
 .call-to-action .btn {
   margin: 10px;
 }
+*/
 
 footer {
   padding: 100px 0;
