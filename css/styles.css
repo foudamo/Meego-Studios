@@ -46,13 +46,13 @@ img.grayscale {
    font-size:28px;
    border-color:#eeeeee;
    padding:15px;
-   background-color:transparent;
+   background-color:#507b98;
    color:#ffffff;
 }
 
 .header .btn-lg:hover {
-   background-color:#eeeeee;
-   color:#777777;
+   background-color:#84c7ff;
+   color:#ffffff;
 }
 /*
 .navbar a {
@@ -80,7 +80,8 @@ img.grayscale {
 
 .header h1 {
   font-size:110px;
-  -webkit-text-stroke: 1px rgba(0,0,0,0.1);
+  font-weight: 300;
+  /*-webkit-text-stroke: 1px rgba(0,0,0,0.1);*/
   /*color:#431a6d;*/
   color:#84c7ff;
   margin-left:-5px;
