@@ -117,7 +117,7 @@ img.grayscale {
     background-size: cover;
 }
 
-@media(max-width:480px) {
+@media(max-width:767px) {
 
   .header .btn-lg {
      font-size:20px;
