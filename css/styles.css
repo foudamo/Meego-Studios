@@ -120,9 +120,9 @@ img.grayscale {
 @media(max-width:480px) {
 
   .header .btn-lg {
-     font-size:14px;
+     font-size:20px;
      border-color:#eeeeee;
-     padding:20px;
+     padding:15px;
      background-color:#507b98;
      color:#ffffff;
   }
