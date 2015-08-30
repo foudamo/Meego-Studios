@@ -103,7 +103,7 @@ img.grayscale {
     -o-background-size: cover;
     background-size: cover;*/
     padding-top: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 35px;
 }
 
 /* RESPONSIVE CSS
@@ -159,6 +159,8 @@ img.grayscale {
   line-height: 1;
   letter-spacing: -1px;
   margin-top: 170px;
+  margin-right: 400px;
+  margin-left: 400px;
 }
 .featurette-heading.text-left {
   margin-left: 30px;
@@ -167,6 +169,10 @@ img.grayscale {
   margin-right: 30px;
 }
 
+featurette .lead {
+  margin-right: 400px;
+  margin-left: 400px;
+}
 .lead.text-left {
   margin-left: 30px;
 }
@@ -187,13 +193,40 @@ img.grayscale {
   } 
 
     .featurette-image {
-    margin-top: 0;  /*Vertically center images part 3: negative margin up the image the same amount of the padding to center it. */
+    margin-top: 0;
   }
 
     .featurette-heading {
-    margin-top: 0;
+    margin-top: 0;    
+    margin-right: 0;
+    margin-left: 0;
   }
 } 
+
+@media (min-width: 768px) and (max-width: 979px){
+
+    .featurette-heading {
+      margin-top: 0;
+      margin-right: 0;
+      margin-left: 0;
+    }
+       .marketing {
+    padding-left: 0;
+    padding-right: 0;
+  } 
+
+    .featurette-image {
+    margin-top: 0;
+  }
+}
+/*
+@media (min-width: 980px) {
+
+    .featurette-heading {
+      margin-left: 160px;
+      margin-right: 160px;
+    }
+}*/
 
 /*=========================================================================*/
 
